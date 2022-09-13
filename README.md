@@ -1,0 +1,2 @@
+# Dentistry Appointment Tracker
+- A desktop application built in c# and WPF .NET framework with SQL Server Database to keep track of a dentistry's appointments. The Model–view–viewmodel (MVVM) pattern was followed in the development of the app.
